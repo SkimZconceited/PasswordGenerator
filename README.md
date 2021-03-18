@@ -1,2 +1,2 @@
-# PasswordGenerator
-This is a simple python program that generates passwords(Every possible password)
+# PasswordGenerator!!!
+This is a simple trial of creating a python program that generates passwords!!!!!!!!
